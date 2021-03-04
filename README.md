@@ -27,6 +27,7 @@ We run some examples, you can find the document here, the idea is give you a mor
 The next figures, shows the implementation using the two methods in the class, MAP and Metroplis.
  ![MAP](Images/Ejemplo2.jpeg)
  ![Metropolis](Images/Ejemplo3.jpeg)
+
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), 2
 
