@@ -26,10 +26,12 @@ We run some examples, you can find the document here, the idea is give you a mor
 ![example](Images/Ejemplo1.PNG)
 The next figures, shows the implementation using the two methods in the class, MAP and Metroplis.
 <p align="center">
+  <img width="" height="" src="Images/Ejemplo2.jpeg">
+</p>
+
+<p align="center">
   <img width="" height="" src="Images/Ejemplo3.jpeg">
 </p>
- ![Configuration_Example](Images/Ejemplo3.jpeg)
- ![MAP Results](Images/Ejemplo3.jpeg)
 
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), 2
