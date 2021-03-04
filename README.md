@@ -25,8 +25,8 @@ Student Involved:
 We run some examples, you can find the document here, the idea is give you a more detail approach to the replication, also, in the images folder you can find the exercise used. The following exercise if also in the documentation folder.
 ![example](Images/Ejemplo1.PNG)
 The next figures, shows the implementation using the two methods in the class, MAP and Metroplis.
- ![MAP](Images/Ejemplo2.PNG)
- ![Metropolis](Images/Ejemplo3.PNG)
+ ![MAP](Images/Ejemplo2.jpeg)
+ ![Metropolis](Images/Ejemplo3.jpeg)
 #References
 -  Sucar, L. E. (2020). Probabilistic graphical models. Advances in Computer Vision and Pattern Recognition.London: Springer London. doi, 10(978), 2
 
