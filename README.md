@@ -1,4 +1,4 @@
-<h1>&#9968 Markov Random Field Optimizacion using Stochactic Seach;</h1>
+<h1>&#9968 Markov Random Field Optimizacion using Stochactic Seach</h1>
 
 The content of this repository served as an assignment project requested for the course Probabilistic Graphical Models at the <a href="https://www.inaoep.mx/">INAOE</a> as a student of the Master in Science in Computer Science. All the resources presented in the versions of this code were obtained from the class book that you can find in the references part. 
 
